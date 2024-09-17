@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋 , I'm Pratyusha</h1>
-<h2 align="center">B.Sc Computer Science Final year student</h2>
+<h2 align="center">Hi 👋, I'm Pratyusha<br>B.Sc Computer Science Final year student</h2>
+<!-- <h2 align="center">B.Sc Computer Science Final year student</h2> -->
 
-<h1 align="center">📊My GitHub Stats:</h1>
+<h2 align="center">📊My GitHub Stats:</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en"
