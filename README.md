@@ -30,15 +30,15 @@ alt="pratyusha1618o" />
 # 🖇️ Connect with me: 
 <p align="center">
         <span>
-        <a href="https://twitter.com/pratyusha162" target="blank"><img 
+        <a href="https://twitter.com/pratyusha162" target="_blank"><img 
                 src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg"
                 alt="pratyusha162" width="39" />
         </a>
-        <a href="https://www.linkedin.com/in/pratyusha-bhandary-909a67279/" target="blank">
+        <a href="https://www.linkedin.com/in/pratyusha-bhandary-909a67279/" target="_blank">
         <img 
                 src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"
                 alt="pratyusha bhandary" width="42" /></a>
-        <a href="https://instagram.com/pratyusha_bhandary" target="blank">
+        <a href="https://instagram.com/pratyusha_bhandary" target="_blank">
         <img 
                 src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"
                 alt="pratyusha_bhandary" width="43" /></a>
