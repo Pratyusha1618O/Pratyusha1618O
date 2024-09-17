@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">📊My GitHub Stats:</h1>
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en"
 alt="pratyusha1618o" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyusha1618o&theme=radical&_border=false"
 alt="pratyusha1618o" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en&layout=compact" />
 </p>
 
 # 🖇️ Connect with me: 
