@@ -50,7 +50,7 @@ alt="pratyusha1618o" />
     </p>
 
     
-# 🖥️ My Skills: 
+## 🖥️ My Skills: 
 <p align="center">
     <!-- html -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
