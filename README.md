@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=pratyusha1618o&include_all_commits=true&theme=radical&_border=false&show_icons=true&locale=en"
 alt="pratyusha1618o" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyusha1618o&theme=radical&_border=false"
-alt="pratyusha1618o" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyusha1618o&theme=radical&_border=false"
+alt="pratyusha1618o" /> -->
 </p>
 
 # 🖇️ Connect with me: 
