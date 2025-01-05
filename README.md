@@ -44,7 +44,7 @@ alt="pratyusha1618o" /> -->
                 alt="pratyusha_bhandary" width="43" /></a>
         </span>
         <p align="center">
-        <img src="https://i.ytimg.com/vi/iUNrUZETc6A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB5QA2UiqOy_-eX90r7uULA9mBPOA" alt="About Me GIF" width="300px">
+        <img src="https://i.ytimg.com/vi/zvhGmDh90-s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA7cswoMvss0u_YQX5mqiH5hergOA" alt="About Me GIF" width="300px">
         </p>
         <p align="center"><img align="center" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="email" width="20"/> pratyushabhandary16sp@gmail.com</p>
     </p>
