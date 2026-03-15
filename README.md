@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Pratyusha<br>B.Sc Computer Science Final year student</h2>
+<h2 align="center">Hi 👋, I'm Pratyusha<br>MCA student at Calcutta University</h2>
 <!-- <h2 align="center">B.Sc Computer Science Final year student</h2> -->
 
 <h2 align="center">📊My GitHub Stats:</h2>
@@ -46,7 +46,7 @@ alt="pratyusha1618o" /> -->
         <p align="center">
         <img src="https://i.ytimg.com/vi/zvhGmDh90-s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA7cswoMvss0u_YQX5mqiH5hergOA" alt="About Me GIF" width="300px">
         </p>
-        <p align="center"><img align="center" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="email" width="20"/> pratyushabhandary16sp@gmail.com</p>
+        <p align="center"><img align="center" src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" alt="email" width="20"/> pratyushabhandary2003@gmail.com</p>
     </p>
 
     
