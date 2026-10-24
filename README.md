@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Pratyusha<br>MCA student at Calcutta University</h2>
+<h2 align="center">Hi 👋, I'm Pratyusha<br>MCA student at Jadavpur University</h2>
 <!-- <h2 align="center">B.Sc Computer Science Final year student</h2> -->
 
 <!-- <h2 align="center">📊My GitHub Stats:</h2>
